@@ -5,3 +5,4 @@ https://ghproxy.cc/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/
 https://proxy.v2gh.com/,https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub,
 https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt,
 https://ghp.ci/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+https://github.com/zkjq/Magisk-Delta-KitsuneMagisk/blob/main/final.json
